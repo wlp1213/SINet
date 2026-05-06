@@ -1,4 +1,4 @@
-# SINet
+# SINet(Pytorch implementation of the paper "Structure-Aware Feature Fusion Attention and Inclination Angle Supervision for Lane Detection")
 
 ## Installation
 
