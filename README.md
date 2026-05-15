@@ -1,7 +1,7 @@
 # SINet
 
 ## Installation
-Code implementation for the paper "Structure-Guided Feature Fusion and Geometric Angle Supervision for Robust Lane Detection", to be published in *The Visual Computer*. https://doi.org/10.5281/zenodo.20209492
+Code implementation for the paper "Structure-Guided Feature Fusion and Geometric Angle Supervision for Robust Lane Detection", to be published in **The Visual Computer**. https://doi.org/10.5281/zenodo.20209492
 ### Prerequisites
 
 Only tested on Ubuntu 18.04 and 20.04 with:
